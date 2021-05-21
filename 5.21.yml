@@ -1,0 +1,275 @@
+proxies:
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain1, server: 18.185.63.41, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain2, server: 18.185.94.137, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain3, server: 89.43.107.130, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain4, server: 185.104.184.78, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain5, server: 185.137.137.60, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain6, server: 185.137.138.28, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain7, server: 193.108.116.119, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain8, server: 193.108.116.70, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain9, server: 135.125.227.218, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-FrankfurtamMain10, server: 196.244.72.5, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-Berlin, server: 37.120.217.118, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-Düsseldorf1, server: 93.186.201.93, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Germany-Düsseldorf2, server: 93.186.201.69, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Roubaix1, server: 135.125.214.16, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Roubaix2, server: 178.33.195.2, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Paris1, server: 163.172.110.147, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Paris2, server: 163.172.110.53, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Paris3, server: 51.159.22.235, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Paris4, server: 95.85.90.181, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-France-Paris5, server: 51.159.30.61, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Switzerland-Zurich, server: 45.12.206.152, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Switzerland-Zurich 2, server: 188.241.120.16, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Sweden-Stockholm, server: 196.196.156.106, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-QueenstownEstate, server: 81.90.189.152, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-QueenstownEstate 2, server: 81.90.189.29, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore, server: 51.79.177.107, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 2, server: 196.240.126.74, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 3, server: 51.79.177.85, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 4, server: 196.240.126.242, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 5, server: 196.240.126.66, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 6, server: 51.79.228.139, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Singapore-Singapore 7, server: 51.79.228.135, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Poland-Warsaw, server: 146.59.0.168, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Netherlands-Amsterdam, server: 178.132.3.124, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Netherlands-Amsterdam 2, server: 37.120.192.158, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo, server: 45.66.134.215, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo 2, server: 45.66.134.210, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo 3, server: 45.85.3.162, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo 4, server: 185.160.26.170, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo 5, server: 45.85.3.142, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Japan-Tokyo 6, server: 185.172.113.113, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Canada-Toronto, server: 196.247.59.156, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Canada-Montreal, server: 142.44.135.104, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Turkey-Bursa, server: 45.123.119.51, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Taiwan-Chang-hua, server: 114.42.178.79, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Russia-Moscow, server: 92.38.139.60, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Philippines-MakatiCity, server: 116.93.119.156, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Norway-Oslo1, server: 217.170.206.215, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Norway-Oslo2, server: 217.170.196.189, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Italy-Milan1, server: 158.58.173.54, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Italy-Milan2, server: 92.223.93.225, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Italy-Milan3, server: 92.223.79.31, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-Ireland-Dublin, server: 34.244.63.147, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-India-Mumbai1, server: 13.127.197.3, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-India-Mumbai2, server: 15.206.67.95, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-India-Bengaluru, server: 134.209.155.247, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedArabEmirates-Sharjah, server: 109.169.72.239, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedKingdom-London1, server: 178.239.172.30, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedKingdom-London2, server: 89.34.96.61, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedKingdom-London3, server: 217.138.195.138, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedKingdom-London4, server: 84.252.94.98, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedKingdom-Basingstoke, server: 78.129.253.9, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Seattle, server: 38.143.66.125, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-SantaClara, server: 167.88.61.236, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-LosAngeles, server: 185.153.180.234, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Dallas, server: 38.68.134.135, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Chicago, server: 162.251.61.200, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Seattle 2, server: 38.143.66.12, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-NewYork, server: 45.144.112.162, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-NewYork 2, server: 194.124.76.194, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Miami, server: 38.91.107.225, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-LosAngeles 2, server: 77.247.126.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Dallas 2, server: 38.68.135.248, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Chicago 2, server: 38.64.138.207, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Chicago 3, server: 162.251.61.221, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Atlanta, server: 167.88.63.29, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-Atlanta 2, server: 92.119.16.204, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-NewYork 3, server: 194.124.76.194, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)UfoVPN-UnitedStates-LosAngeles 3, server: 45.66.164.121, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania, server: 31.171.153.133, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 2, server: 31.171.152.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 3, server: 31.171.155.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 4, server: 31.171.155.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 5, server: 31.171.155.69, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 6, server: 31.171.153.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 7, server: 31.171.153.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 8, server: 31.171.153.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 9, server: 31.171.153.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Albania 10, server: 31.171.155.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria, server: 89.187.168.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 2, server: 89.187.168.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 3, server: 5.253.207.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 4, server: 37.120.212.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 5, server: 37.120.212.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 6, server: 5.253.207.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 7, server: 5.253.207.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 8, server: 37.120.212.77, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Austria 9, server: 89.187.168.44, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium, server: 91.90.123.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 2, server: 91.90.123.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 3, server: 91.90.123.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 4, server: 91.90.123.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 5, server: 37.120.236.155, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 6, server: 91.90.123.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 7, server: 91.90.123.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 8, server: 89.249.73.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Belgium 9, server: 37.120.218.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina, server: 185.99.3.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 2, server: 185.99.3.146, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 3, server: 185.99.3.207, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 4, server: 185.164.34.250, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 5, server: 185.99.3.108, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 6, server: 185.99.3.98, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 7, server: 185.212.111.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 8, server: 185.212.111.6, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 9, server: 185.99.3.12, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bosnia-and-Herzegovina 10, server: 185.212.111.41, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bulgaria, server: 217.138.202.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bulgaria 2, server: 37.120.152.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bulgaria 3, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bulgaria 4, server: 37.120.152.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Bulgaria 5, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia, server: 89.164.99.134, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 2, server: 89.164.99.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 3, server: 176.222.34.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 4, server: 85.10.50.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 5, server: 89.164.99.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 6, server: 85.10.51.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 7, server: 85.10.50.166, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Croatia 8, server: 85.10.56.190, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus, server: 195.47.194.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 2, server: 195.47.194.58, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 3, server: 195.47.194.56, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 4, server: 195.47.194.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 5, server: 195.47.194.68, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 6, server: 195.47.194.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 7, server: 195.47.194.79, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 8, server: 195.47.194.81, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 9, server: 195.47.194.87, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Cyprus 10, server: 195.47.194.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia, server: 217.138.220.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 2, server: 193.9.112.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 3, server: 193.9.112.181, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 4, server: 217.138.220.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 5, server: 217.138.199.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 6, server: 217.138.220.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Czechia 7, server: 217.138.220.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark, server: 193.29.107.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 2, server: 95.174.65.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 3, server: 193.29.107.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 4, server: 193.29.107.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 5, server: 45.12.221.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 6, server: 193.29.107.173, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 7, server: 193.29.107.163, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Denmark 8, server: 193.29.107.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia, server: 185.174.159.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 2, server: 165.231.163.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 3, server: 165.231.163.7, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 4, server: 165.231.163.3, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 5, server: 165.231.163.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 6, server: 185.174.159.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Estonia 7, server: 185.174.159.138, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland, server: 196.244.191.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland 2, server: 196.244.191.45, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland 3, server: 196.244.191.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland 4, server: 196.244.191.37, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland 5, server: 196.244.191.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Finland 6, server: 196.244.191.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France, server: 185.108.106.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 2, server: 185.108.106.26, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 3, server: 185.108.106.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 4, server: 185.108.106.102, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 5, server: 185.108.106.174, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 6, server: 185.108.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 7, server: 185.108.106.140, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 8, server: 185.108.106.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 9, server: 185.108.106.176, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 10, server: 185.108.106.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 11, server: 84.247.51.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 12, server: 143.244.57.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 13, server: 45.89.174.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 14, server: 45.89.174.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 15, server: 143.244.57.103, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 16, server: 84.17.60.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 17, server: 143.244.57.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 18, server: 217.138.207.253, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 19, server: 84.17.43.183, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 20, server: 217.138.207.245, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 21, server: 185.166.84.57, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 22, server: 185.166.84.23, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 23, server: 185.166.84.33, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 24, server: 138.199.16.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 25, server: 185.166.84.31, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 26, server: 138.199.16.137, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 27, server: 185.166.84.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 28, server: 185.166.84.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 29, server: 138.199.16.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-France 30, server: 185.166.84.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany, server: 156.146.33.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 2, server: 37.120.197.13, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 3, server: 185.102.219.47, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 4, server: 185.220.70.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 5, server: 185.158.135.36, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 6, server: 156.146.33.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 7, server: 156.146.33.65, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 8, server: 37.120.196.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 9, server: 37.120.197.11, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 10, server: 217.138.216.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 11, server: 193.29.106.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 12, server: 193.29.106.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 13, server: 193.29.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 14, server: 152.89.163.247, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 15, server: 193.29.106.29, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 16, server: 193.29.106.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 17, server: 193.29.106.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 18, server: 193.29.106.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 19, server: 193.29.106.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 20, server: 79.143.191.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 21, server: 79.143.191.231, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 22, server: 62.171.151.160, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 23, server: 144.91.123.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Germany 24, server: 62.171.151.158, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece, server: 194.150.167.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 2, server: 194.150.167.34, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 3, server: 194.150.167.38, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 4, server: 194.150.167.32, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 5, server: 194.150.167.48, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 6, server: 194.150.167.28, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 7, server: 194.150.167.30, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 8, server: 194.150.167.42, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 9, server: 194.150.167.40, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Greece 10, server: 194.150.167.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary, server: 37.120.144.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 2, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 3, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 4, server: 37.120.144.215, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 5, server: 37.120.144.213, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 6, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 7, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 8, server: 37.120.144.151, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 9, server: 37.120.144.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Hungary 10, server: 37.120.144.199, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 2, server: 45.133.193.219, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 3, server: 45.133.193.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 4, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 5, server: 45.133.193.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 6, server: 45.133.193.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Iceland 7, server: 45.133.193.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland, server: 37.120.235.205, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 2, server: 5.157.13.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 3, server: 37.120.235.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 4, server: 185.252.222.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 5, server: 5.157.13.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 6, server: 37.120.235.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 7, server: 37.120.235.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 8, server: 5.157.13.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Ireland 9, server: 37.120.235.227, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 2, server: 37.120.201.71, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 3, server: 37.120.201.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 4, server: 45.9.251.167, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 5, server: 212.102.54.180, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 6, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 7, server: 212.102.54.162, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 8, server: 84.17.58.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 9, server: 84.17.58.202, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 10, server: 82.102.26.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 11, server: 37.120.207.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 12, server: 82.102.26.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 13, server: 185.217.71.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 14, server: 82.102.26.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 15, server: 82.102.26.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: (@proSSHbot)SurfSharkVPN-Italy 16, server: 82.102.26.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
