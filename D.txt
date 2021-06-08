@@ -146,7 +146,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://resona.top/clash/proxies
+    url: https://resona.top/clash/proxies?type=ss
     path: d.yaml
     health-check:
       enable: true
