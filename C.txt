@@ -146,7 +146,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://free.dswang.ga/clash/proxies?filter=nr
+    url: https://free.dswang.ga/clash/proxies?type=ss
     path: c.yaml
     health-check:
       enable: true
