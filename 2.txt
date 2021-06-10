@@ -146,7 +146,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://free.mengbai.cf/clash/proxies?filter=p
+    url: https://proxy.ednovas.xyz/clash/proxies?filter=pr
     path: 2.yaml
     health-check:
       enable: true
