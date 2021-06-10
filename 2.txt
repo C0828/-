@@ -8,7 +8,6 @@ allow-lan: false
 mode: Rule
 log-level: info
 ipv6: false
-external-controller: :9090
 
 hosts:
   services.googleapis.cn: 216.58.200.67
