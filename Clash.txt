@@ -1,79 +1,1071 @@
+port: 40000
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:40001
 proxies:
-  - {name: 🇭🇰 HK_3173, server: 118.107.244.111, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK_3172, server: 118.107.244.114, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK_3182, server: 118.107.244.113, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK_3174, server: 118.107.244.113, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇭🇰 HK_3177, server: 118.107.244.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇭🇰 HK_3175, server: 118.107.244.112, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: Pool__361, server: 91.90.123.115, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇭🇰 HK_3218, server: 118.107.244.110, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 Pool_🇺🇸US_4814, server: 45.89.173.205, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 Pool_🇺🇸US_4818, server: 45.89.173.205, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇸 Pool_🇺🇸US_4913, server: 104.200.131.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: Pool__296, server: 84.17.35.118, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: _331, server: 84.17.35.118, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-  - {name: 🇺🇸 Pool_🇺🇸US_4850, server: 84.17.35.118, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: _332, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: Pool__338, server: 89.238.133.125, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: _481, server: 84.17.35.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇷🇴 RO_4330, server: 91.90.121.187, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: Pool__368, server: 84.17.35.118, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 🇷🇴 RO_4325, server: 91.90.121.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇯🇵 JP_3622, server: 18.183.171.183, port: 20020, type: ss, cipher: chacha20-ietf-poly1305, password: 39341fe7-b8b7-4605-a811-af1f1d46d4fb}
-  - {name: Pool__307, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: Pool__337, server: 84.17.35.118, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: _390, server: 91.90.123.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇳🇱 NL_3910, server: 212.102.35.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇷🇴 Pool_🇷🇴RO_4319, server: 139.28.176.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: _366, server: 193.29.106.20, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: Pool__473, server: 84.17.35.118, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇺🇸 Pool_🇺🇸US_4777, server: 23.82.11.49, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇺🇸 Pool_🇺🇸US_5295, server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: _185, server: 185.108.105.97, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: Pool__204, server: 185.108.105.97, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: Pool__298, server: 84.17.35.118, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: Pool__335, server: 89.238.133.125, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: _355, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
-  - {name: _360, server: 91.90.123.115, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: Pool__386, server: 84.17.35.118, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: _202, server: 185.108.105.97, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: _303, server: 91.90.123.115, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: Pool__356, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: Pool__381, server: 91.90.123.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: Pool__422, server: 195.47.194.42, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇺🇸 Pool_🇺🇸US_4739, server: 143.244.42.71, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: _206, server: 185.108.105.97, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: Pool__222, server: 84.17.35.118, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: _388, server: 84.17.35.118, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: Pool__498, server: 84.17.35.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 🇺🇸, server: 84.17.35.78, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 Pool_🇺🇸US_4761, server: 23.82.11.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 Pool_🇺🇸US_4824, server: 84.17.35.86, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: Pool__217, server: 195.47.194.42, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: _346, server: 91.90.123.115, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: _343, server: 185.108.105.97, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: Pool__442, server: 45.134.224.15, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: Pool__582, server: 45.134.224.15, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: Pool__584, server: 45.134.224.15, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: Pool__716, server: 45.134.224.15, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇫🇷 Relay_-🇫🇷FR_223, server: women.farliy.com, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: Pool__336, server: 89.238.133.125, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇱🇹, server: 194.41.112.14, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 🇺🇸 Pool_🇺🇸US_4733, server: 148.72.169.213, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: _205, server: 185.108.105.97, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: _278, server: 91.90.123.115, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: _1004, server: 45.134.224.15, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: Pool__310, server: 91.90.123.115, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: Pool__339, server: 185.108.105.97, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: Pool__416, server: 195.47.194.42, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: Pool__440, server: 195.47.194.42, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: Pool__444, server: 195.47.194.42, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: Pool_🇨🇾CY_2154, server: 195.47.194.42, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: Pool__209, server: 91.90.123.115, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: Pool__424, server: 195.47.194.42, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇸 Pool_🇺🇸US_4905, server: 84.17.35.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: _207, server: 185.108.105.97, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: _239, server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: _305, server: 82.102.26.237, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: Pool__483, server: 84.17.35.118, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: Pool__320, server: 84.17.35.118, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+- name: Youtube不良林
+  type: http
+  server: buliang0.tk
+  port: 6666
+- name: 40010
+  type: ss
+  server: 91.90.121.163
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40011
+  type: ss
+  server: 139.28.176.53
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40012
+  type: ss
+  server: 104.200.131.165
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40013
+  type: ss
+  server: 85.10.50.164
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40014
+  type: ss
+  server: 194.41.112.14
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40015
+  type: ss
+  server: 45.134.224.15
+  port: 33148
+  cipher: aes-256-gcm
+  password: CMduaFXddcQbwNAAs7xFDnc8
+- name: 40016
+  type: ss
+  server: 91.90.123.115
+  port: 48794
+  cipher: aes-256-gcm
+  password: r9Q3adc3ru9sfBDPEj4yp6U6
+- name: 40017
+  type: ss
+  server: 91.90.123.115
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40018
+  type: ss
+  server: 91.90.123.115
+  port: 37588
+  cipher: aes-256-gcm
+  password: kD9vkjnE6dsUzwQfvKkPkQAd
+- name: 40019
+  type: ss
+  server: 91.90.123.115
+  port: 41676
+  cipher: aes-256-gcm
+  password: z6pH3RyttkRWhJ5tpRyt6dYk
+- name: 40020
+  type: ss
+  server: 91.90.123.115
+  port: 48938
+  cipher: aes-256-gcm
+  password: 4ejJ8n5ddLuYDUHGXJre2ufJ
+- name: 40021
+  type: ss
+  server: 91.90.123.115
+  port: 34687
+  cipher: aes-256-gcm
+  password: txmK9WhwP6WPhP7hqSBLVxpN
+- name: 40022
+  type: ss
+  server: 91.90.123.115
+  port: 47027
+  cipher: aes-256-gcm
+  password: Vt5pBJFwdtNB26cJbTXxm88Z
+- name: 40023
+  type: ss
+  server: 91.90.123.115
+  port: 44236
+  cipher: aes-256-gcm
+  password: FWrXcxPZjJxAN89xLgqY3Acp
+- name: 40024
+  type: ss
+  server: 84.17.35.118
+  port: 45746
+  cipher: aes-256-gcm
+  password: wEsFcHCvbL4eJkL4DZQa7RgR
+- name: 40025
+  type: ss
+  server: 84.17.35.118
+  port: 33148
+  cipher: aes-256-gcm
+  password: CMduaFXddcQbwNAAs7xFDnc8
+- name: 40026
+  type: ss
+  server: 84.17.35.118
+  port: 37588
+  cipher: aes-256-gcm
+  password: kD9vkjnE6dsUzwQfvKkPkQAd
+- name: 40027
+  type: ss
+  server: 84.17.35.118
+  port: 50168
+  cipher: aes-256-gcm
+  password: WCuz7yrfZSCQQXSNrtGPz2HT
+- name: 40028
+  type: ss
+  server: 84.17.35.118
+  port: 44236
+  cipher: aes-256-gcm
+  password: FWrXcxPZjJxAN89xLgqY3Acp
+- name: 40029
+  type: ss
+  server: 185.108.105.97
+  port: 41676
+  cipher: aes-256-gcm
+  password: z6pH3RyttkRWhJ5tpRyt6dYk
+- name: 40030
+  type: ss
+  server: 185.108.105.97
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40031
+  type: ss
+  server: 185.108.105.97
+  port: 33148
+  cipher: aes-256-gcm
+  password: CMduaFXddcQbwNAAs7xFDnc8
+- name: 40032
+  type: ss
+  server: 185.108.105.97
+  port: 46642
+  cipher: aes-256-gcm
+  password: gYL83DQWXuDbxmZAVVtUTXaK
+- name: 40033
+  type: ss
+  server: 185.108.105.97
+  port: 35294
+  cipher: aes-256-gcm
+  password: J9Y2ncrdPEC38gwydNFFGBna
+- name: 40034
+  type: ss
+  server: 185.108.105.97
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40035
+  type: ss
+  server: 185.108.105.97
+  port: 34815
+  cipher: aes-256-gcm
+  password: LkFAzkzXkSCRYa2CsRdL8cGb
+- name: 40036
+  type: ss
+  server: 185.108.105.97
+  port: 31944
+  cipher: aes-256-gcm
+  password: aYNeKDMzYQYw4KbUbJA8Wszq
+- name: 40037
+  type: ss
+  server: 185.108.105.97
+  port: 33998
+  cipher: aes-256-gcm
+  password: NHwQTPLCfaTMSqTnU3mjcSxe
+- name: 40038
+  type: ss
+  server: 84.17.35.118
+  port: 33998
+  cipher: aes-256-gcm
+  password: NHwQTPLCfaTMSqTnU3mjcSxe
+- name: 40039
+  type: ss
+  server: 84.17.35.118
+  port: 35294
+  cipher: aes-256-gcm
+  password: J9Y2ncrdPEC38gwydNFFGBna
+- name: 40040
+  type: ss
+  server: 91.90.123.125
+  port: 33998
+  cipher: aes-256-gcm
+  password: NHwQTPLCfaTMSqTnU3mjcSxe
+- name: 40041
+  type: ss
+  server: 91.90.123.115
+  port: 44820
+  cipher: aes-256-gcm
+  password: jspgz9G3VmvBMCgMUWLBaZHu
+- name: 40042
+  type: ss
+  server: 212.102.36.234
+  port: 48794
+  cipher: aes-256-gcm
+  password: r9Q3adc3ru9sfBDPEj4yp6U6
+- name: 40043
+  type: ss
+  server: 212.102.36.234
+  port: 47121
+  cipher: aes-256-gcm
+  password: CTK8GXFQgKYQErrghPJfZ6tk
+- name: 40044
+  type: ss
+  server: 91.90.123.125
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40045
+  type: ss
+  server: 91.90.123.115
+  port: 49126
+  cipher: aes-256-gcm
+  password: wrCaGtrUbzeRqQLdc8Kmk3Nd
+- name: 40046
+  type: ss
+  server: 91.90.123.115
+  port: 38620
+  cipher: aes-256-gcm
+  password: Kquv5UhvZXNMemAQy8DxZ7qn
+- name: 40047
+  type: ss
+  server: 91.90.123.115
+  port: 34815
+  cipher: aes-256-gcm
+  password: LkFAzkzXkSCRYa2CsRdL8cGb
+- name: 40048
+  type: ss
+  server: 91.90.123.115
+  port: 33148
+  cipher: aes-256-gcm
+  password: CMduaFXddcQbwNAAs7xFDnc8
+- name: 40049
+  type: ss
+  server: 91.90.123.115
+  port: 38742
+  cipher: aes-256-gcm
+  password: DKXfWwc4ebscpXTKpbt85rSH
+- name: 40050
+  type: ss
+  server: 91.90.123.115
+  port: 49339
+  cipher: aes-256-gcm
+  password: suucSeVLmt6PQKAP77NtGw9x
+- name: 40051
+  type: ss
+  server: 91.90.123.115
+  port: 35294
+  cipher: aes-256-gcm
+  password: J9Y2ncrdPEC38gwydNFFGBna
+- name: 40052
+  type: ss
+  server: 91.90.123.115
+  port: 45329
+  cipher: aes-256-gcm
+  password: CXSjgD7u7Ar7GxkZ4CgTMUsj
+- name: 40053
+  type: ss
+  server: 91.90.123.115
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40054
+  type: ss
+  server: 89.238.133.125
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40055
+  type: ss
+  server: 89.238.133.125
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40056
+  type: ss
+  server: 91.90.123.115
+  port: 46642
+  cipher: aes-256-gcm
+  password: gYL83DQWXuDbxmZAVVtUTXaK
+- name: 40057
+  type: ss
+  server: 91.90.123.115
+  port: 31944
+  cipher: aes-256-gcm
+  password: aYNeKDMzYQYw4KbUbJA8Wszq
+- name: 40058
+  type: ss
+  server: 84.17.35.118
+  port: 49339
+  cipher: aes-256-gcm
+  password: suucSeVLmt6PQKAP77NtGw9x
+- name: 40059
+  type: ss
+  server: 91.90.123.115
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40060
+  type: ss
+  server: 91.90.123.115
+  port: 33998
+  cipher: aes-256-gcm
+  password: NHwQTPLCfaTMSqTnU3mjcSxe
+- name: 40061
+  type: ss
+  server: 91.90.123.115
+  port: 50168
+  cipher: aes-256-gcm
+  password: WCuz7yrfZSCQQXSNrtGPz2HT
+- name: 40062
+  type: ss
+  server: 195.47.194.42
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40063
+  type: ss
+  server: 195.47.194.42
+  port: 34815
+  cipher: aes-256-gcm
+  password: LkFAzkzXkSCRYa2CsRdL8cGb
+- name: 40064
+  type: ss
+  server: 195.47.194.42
+  port: 38742
+  cipher: aes-256-gcm
+  password: DKXfWwc4ebscpXTKpbt85rSH
+- name: 40065
+  type: ss
+  server: 195.47.194.42
+  port: 31944
+  cipher: aes-256-gcm
+  password: aYNeKDMzYQYw4KbUbJA8Wszq
+- name: 40066
+  type: ss
+  server: 89.187.168.39
+  port: 37588
+  cipher: aes-256-gcm
+  password: kD9vkjnE6dsUzwQfvKkPkQAd
+- name: 40067
+  type: ss
+  server: 37.120.145.19
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40068
+  type: ss
+  server: 185.44.76.188
+  port: 31764
+  cipher: aes-256-gcm
+  password: YgusH2MWA8PWc3p2VDsR7AVv
+- name: 40069
+  type: ss
+  server: 185.44.76.188
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40070
+  type: ss
+  server: 195.181.171.238
+  port: 31944
+  cipher: aes-256-gcm
+  password: aYNeKDMzYQYw4KbUbJA8Wszq
+- name: 40071
+  type: ss
+  server: 185.108.105.97
+  port: 50168
+  cipher: aes-256-gcm
+  password: WCuz7yrfZSCQQXSNrtGPz2HT
+- name: 40072
+  type: ss
+  server: 185.38.150.124
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40073
+  type: ss
+  server: 85.10.50.164
+  port: 37588
+  cipher: aes-256-gcm
+  password: kD9vkjnE6dsUzwQfvKkPkQAd
+- name: 40074
+  type: ss
+  server: 137.59.52.107
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40075
+  type: ss
+  server: 137.59.52.107
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40076
+  type: ss
+  server: 193.29.106.19
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40077
+  type: ss
+  server: 91.90.121.187
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40078
+  type: ss
+  server: 198.147.22.87
+  port: 35200
+  cipher: aes-256-gcm
+  password: WBLAbN6AwtV5avBx73hFRLB3
+- name: 40079
+  type: ss
+  server: 66.115.182.74
+  port: 43893
+  cipher: aes-256-gcm
+  password: YyCBeDdYX4cadHpCkkmdJLq8
+- name: 40080
+  type: ss
+  server: 84.17.35.118
+  port: 49396
+  cipher: aes-256-gcm
+  password: BdRWC38L5JUDMTYNNxJGcUwB
+- name: 40081
+  type: ss
+  server: 84.17.35.118
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40082
+  type: ss
+  server: 84.17.35.118
+  port: 34687
+  cipher: aes-256-gcm
+  password: txmK9WhwP6WPhP7hqSBLVxpN
+- name: 40083
+  type: ss
+  server: 84.17.35.118
+  port: 47027
+  cipher: aes-256-gcm
+  password: Vt5pBJFwdtNB26cJbTXxm88Z
+- name: 40084
+  type: ss
+  server: 84.17.35.118
+  port: 34815
+  cipher: aes-256-gcm
+  password: LkFAzkzXkSCRYa2CsRdL8cGb
+- name: 40085
+  type: ss
+  server: 84.17.35.118
+  port: 45329
+  cipher: aes-256-gcm
+  password: CXSjgD7u7Ar7GxkZ4CgTMUsj
+- name: 40086
+  type: ss
+  server: 84.17.35.118
+  port: 38620
+  cipher: aes-256-gcm
+  password: Kquv5UhvZXNMemAQy8DxZ7qn
+- name: 40087
+  type: ss
+  server: 84.17.35.118
+  port: 44820
+  cipher: aes-256-gcm
+  password: jspgz9G3VmvBMCgMUWLBaZHu
+- name: 40088
+  type: ss
+  server: 84.17.35.118
+  port: 38742
+  cipher: aes-256-gcm
+  password: DKXfWwc4ebscpXTKpbt85rSH
+- name: 40089
+  type: ss
+  server: 84.17.35.118
+  port: 31944
+  cipher: aes-256-gcm
+  password: aYNeKDMzYQYw4KbUbJA8Wszq
+- name: 40090
+  type: ss
+  server: 84.17.35.118
+  port: 47121
+  cipher: aes-256-gcm
+  password: CTK8GXFQgKYQErrghPJfZ6tk
+- name: 40091
+  type: ss
+  server: 84.17.35.86
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40092
+  type: ss
+  server: 23.82.11.49
+  port: 37588
+  cipher: aes-256-gcm
+  password: kD9vkjnE6dsUzwQfvKkPkQAd
+- name: 40093
+  type: ss
+  server: 23.82.11.49
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40094
+  type: ss
+  server: 207.244.84.42
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40095
+  type: ss
+  server: 84.17.35.78
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40096
+  type: ss
+  server: 66.115.175.37
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40097
+  type: ss
+  server: 66.115.147.92
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40098
+  type: ss
+  server: 148.72.169.213
+  port: 33992
+  cipher: aes-256-gcm
+  password: 8n6pwAcrrv2pj6tFY2p3TbQ6
+- name: 40099
+  type: ss
+  server: 143.244.42.71
+  port: 31572
+  cipher: aes-256-gcm
+  password: n8w4StnbVD9dmXYn4Ajt87EA
+- name: 40100
+  type: ss
+  server: 198.147.22.87
+  port: 33998
+  cipher: aes-256-gcm
+  password: NHwQTPLCfaTMSqTnU3mjcSxe
+- name: 40101
+  type: ss
+  server: 156.146.33.75
+  port: 40093
+  cipher: aes-256-gcm
+  password: x23Z4LGkGDkThZ9Kaz4DURQp
+- name: 40102
+  type: ss
+  server: 156.146.33.75
+  port: 39772
+  cipher: aes-256-gcm
+  password: CUndSZnYsPKcu6Kj8THVMBHD
+- name: 40103
+  type: ss
+  server: 192.111.134.200
+  port: 37473
+  cipher: aes-256-gcm
+  password: enctdKyJfSu76VqznKwTt6Ap
+- name: 40104
+  type: ss
+  server: 45.133.193.219
+  port: 43893
+  cipher: aes-256-gcm
+  password: YyCBeDdYX4cadHpCkkmdJLq8
+- name: 40105
+  type: ss
+  server: 138.199.16.145
+  port: 47027
+  cipher: aes-256-gcm
+  password: Vt5pBJFwdtNB26cJbTXxm88Z
+proxy-groups:
+- name: Proxy2
+  type: select
+  proxies:
+  - Youtube不良林
+- name: proxy40010
+  type: select
+  proxies:
+  - 40010
+- name: proxy40011
+  type: select
+  proxies:
+  - 40011
+- name: proxy40012
+  type: select
+  proxies:
+  - 40012
+- name: proxy40013
+  type: select
+  proxies:
+  - 40013
+- name: proxy40014
+  type: select
+  proxies:
+  - 40014
+- name: proxy40015
+  type: select
+  proxies:
+  - 40015
+- name: proxy40016
+  type: select
+  proxies:
+  - 40016
+- name: proxy40017
+  type: select
+  proxies:
+  - 40017
+- name: proxy40018
+  type: select
+  proxies:
+  - 40018
+- name: proxy40019
+  type: select
+  proxies:
+  - 40019
+- name: proxy40020
+  type: select
+  proxies:
+  - 40020
+- name: proxy40021
+  type: select
+  proxies:
+  - 40021
+- name: proxy40022
+  type: select
+  proxies:
+  - 40022
+- name: proxy40023
+  type: select
+  proxies:
+  - 40023
+- name: proxy40024
+  type: select
+  proxies:
+  - 40024
+- name: proxy40025
+  type: select
+  proxies:
+  - 40025
+- name: proxy40026
+  type: select
+  proxies:
+  - 40026
+- name: proxy40027
+  type: select
+  proxies:
+  - 40027
+- name: proxy40028
+  type: select
+  proxies:
+  - 40028
+- name: proxy40029
+  type: select
+  proxies:
+  - 40029
+- name: proxy40030
+  type: select
+  proxies:
+  - 40030
+- name: proxy40031
+  type: select
+  proxies:
+  - 40031
+- name: proxy40032
+  type: select
+  proxies:
+  - 40032
+- name: proxy40033
+  type: select
+  proxies:
+  - 40033
+- name: proxy40034
+  type: select
+  proxies:
+  - 40034
+- name: proxy40035
+  type: select
+  proxies:
+  - 40035
+- name: proxy40036
+  type: select
+  proxies:
+  - 40036
+- name: proxy40037
+  type: select
+  proxies:
+  - 40037
+- name: proxy40038
+  type: select
+  proxies:
+  - 40038
+- name: proxy40039
+  type: select
+  proxies:
+  - 40039
+- name: proxy40040
+  type: select
+  proxies:
+  - 40040
+- name: proxy40041
+  type: select
+  proxies:
+  - 40041
+- name: proxy40042
+  type: select
+  proxies:
+  - 40042
+- name: proxy40043
+  type: select
+  proxies:
+  - 40043
+- name: proxy40044
+  type: select
+  proxies:
+  - 40044
+- name: proxy40045
+  type: select
+  proxies:
+  - 40045
+- name: proxy40046
+  type: select
+  proxies:
+  - 40046
+- name: proxy40047
+  type: select
+  proxies:
+  - 40047
+- name: proxy40048
+  type: select
+  proxies:
+  - 40048
+- name: proxy40049
+  type: select
+  proxies:
+  - 40049
+- name: proxy40050
+  type: select
+  proxies:
+  - 40050
+- name: proxy40051
+  type: select
+  proxies:
+  - 40051
+- name: proxy40052
+  type: select
+  proxies:
+  - 40052
+- name: proxy40053
+  type: select
+  proxies:
+  - 40053
+- name: proxy40054
+  type: select
+  proxies:
+  - 40054
+- name: proxy40055
+  type: select
+  proxies:
+  - 40055
+- name: proxy40056
+  type: select
+  proxies:
+  - 40056
+- name: proxy40057
+  type: select
+  proxies:
+  - 40057
+- name: proxy40058
+  type: select
+  proxies:
+  - 40058
+- name: proxy40059
+  type: select
+  proxies:
+  - 40059
+- name: proxy40060
+  type: select
+  proxies:
+  - 40060
+- name: proxy40061
+  type: select
+  proxies:
+  - 40061
+- name: proxy40062
+  type: select
+  proxies:
+  - 40062
+- name: proxy40063
+  type: select
+  proxies:
+  - 40063
+- name: proxy40064
+  type: select
+  proxies:
+  - 40064
+- name: proxy40065
+  type: select
+  proxies:
+  - 40065
+- name: proxy40066
+  type: select
+  proxies:
+  - 40066
+- name: proxy40067
+  type: select
+  proxies:
+  - 40067
+- name: proxy40068
+  type: select
+  proxies:
+  - 40068
+- name: proxy40069
+  type: select
+  proxies:
+  - 40069
+- name: proxy40070
+  type: select
+  proxies:
+  - 40070
+- name: proxy40071
+  type: select
+  proxies:
+  - 40071
+- name: proxy40072
+  type: select
+  proxies:
+  - 40072
+- name: proxy40073
+  type: select
+  proxies:
+  - 40073
+- name: proxy40074
+  type: select
+  proxies:
+  - 40074
+- name: proxy40075
+  type: select
+  proxies:
+  - 40075
+- name: proxy40076
+  type: select
+  proxies:
+  - 40076
+- name: proxy40077
+  type: select
+  proxies:
+  - 40077
+- name: proxy40078
+  type: select
+  proxies:
+  - 40078
+- name: proxy40079
+  type: select
+  proxies:
+  - 40079
+- name: proxy40080
+  type: select
+  proxies:
+  - 40080
+- name: proxy40081
+  type: select
+  proxies:
+  - 40081
+- name: proxy40082
+  type: select
+  proxies:
+  - 40082
+- name: proxy40083
+  type: select
+  proxies:
+  - 40083
+- name: proxy40084
+  type: select
+  proxies:
+  - 40084
+- name: proxy40085
+  type: select
+  proxies:
+  - 40085
+- name: proxy40086
+  type: select
+  proxies:
+  - 40086
+- name: proxy40087
+  type: select
+  proxies:
+  - 40087
+- name: proxy40088
+  type: select
+  proxies:
+  - 40088
+- name: proxy40089
+  type: select
+  proxies:
+  - 40089
+- name: proxy40090
+  type: select
+  proxies:
+  - 40090
+- name: proxy40091
+  type: select
+  proxies:
+  - 40091
+- name: proxy40092
+  type: select
+  proxies:
+  - 40092
+- name: proxy40093
+  type: select
+  proxies:
+  - 40093
+- name: proxy40094
+  type: select
+  proxies:
+  - 40094
+- name: proxy40095
+  type: select
+  proxies:
+  - 40095
+- name: proxy40096
+  type: select
+  proxies:
+  - 40096
+- name: proxy40097
+  type: select
+  proxies:
+  - 40097
+- name: proxy40098
+  type: select
+  proxies:
+  - 40098
+- name: proxy40099
+  type: select
+  proxies:
+  - 40099
+- name: proxy40100
+  type: select
+  proxies:
+  - 40100
+- name: proxy40101
+  type: select
+  proxies:
+  - 40101
+- name: proxy40102
+  type: select
+  proxies:
+  - 40102
+- name: proxy40103
+  type: select
+  proxies:
+  - 40103
+- name: proxy40104
+  type: select
+  proxies:
+  - 40104
+- name: proxy40105
+  type: select
+  proxies:
+  - 40105
+rules:
+- SRC-PORT,40010,proxy40010
+- SRC-PORT,40011,proxy40011
+- SRC-PORT,40012,proxy40012
+- SRC-PORT,40013,proxy40013
+- SRC-PORT,40014,proxy40014
+- SRC-PORT,40015,proxy40015
+- SRC-PORT,40016,proxy40016
+- SRC-PORT,40017,proxy40017
+- SRC-PORT,40018,proxy40018
+- SRC-PORT,40019,proxy40019
+- SRC-PORT,40020,proxy40020
+- SRC-PORT,40021,proxy40021
+- SRC-PORT,40022,proxy40022
+- SRC-PORT,40023,proxy40023
+- SRC-PORT,40024,proxy40024
+- SRC-PORT,40025,proxy40025
+- SRC-PORT,40026,proxy40026
+- SRC-PORT,40027,proxy40027
+- SRC-PORT,40028,proxy40028
+- SRC-PORT,40029,proxy40029
+- SRC-PORT,40030,proxy40030
+- SRC-PORT,40031,proxy40031
+- SRC-PORT,40032,proxy40032
+- SRC-PORT,40033,proxy40033
+- SRC-PORT,40034,proxy40034
+- SRC-PORT,40035,proxy40035
+- SRC-PORT,40036,proxy40036
+- SRC-PORT,40037,proxy40037
+- SRC-PORT,40038,proxy40038
+- SRC-PORT,40039,proxy40039
+- SRC-PORT,40040,proxy40040
+- SRC-PORT,40041,proxy40041
+- SRC-PORT,40042,proxy40042
+- SRC-PORT,40043,proxy40043
+- SRC-PORT,40044,proxy40044
+- SRC-PORT,40045,proxy40045
+- SRC-PORT,40046,proxy40046
+- SRC-PORT,40047,proxy40047
+- SRC-PORT,40048,proxy40048
+- SRC-PORT,40049,proxy40049
+- SRC-PORT,40050,proxy40050
+- SRC-PORT,40051,proxy40051
+- SRC-PORT,40052,proxy40052
+- SRC-PORT,40053,proxy40053
+- SRC-PORT,40054,proxy40054
+- SRC-PORT,40055,proxy40055
+- SRC-PORT,40056,proxy40056
+- SRC-PORT,40057,proxy40057
+- SRC-PORT,40058,proxy40058
+- SRC-PORT,40059,proxy40059
+- SRC-PORT,40060,proxy40060
+- SRC-PORT,40061,proxy40061
+- SRC-PORT,40062,proxy40062
+- SRC-PORT,40063,proxy40063
+- SRC-PORT,40064,proxy40064
+- SRC-PORT,40065,proxy40065
+- SRC-PORT,40066,proxy40066
+- SRC-PORT,40067,proxy40067
+- SRC-PORT,40068,proxy40068
+- SRC-PORT,40069,proxy40069
+- SRC-PORT,40070,proxy40070
+- SRC-PORT,40071,proxy40071
+- SRC-PORT,40072,proxy40072
+- SRC-PORT,40073,proxy40073
+- SRC-PORT,40074,proxy40074
+- SRC-PORT,40075,proxy40075
+- SRC-PORT,40076,proxy40076
+- SRC-PORT,40077,proxy40077
+- SRC-PORT,40078,proxy40078
+- SRC-PORT,40079,proxy40079
+- SRC-PORT,40080,proxy40080
+- SRC-PORT,40081,proxy40081
+- SRC-PORT,40082,proxy40082
+- SRC-PORT,40083,proxy40083
+- SRC-PORT,40084,proxy40084
+- SRC-PORT,40085,proxy40085
+- SRC-PORT,40086,proxy40086
+- SRC-PORT,40087,proxy40087
+- SRC-PORT,40088,proxy40088
+- SRC-PORT,40089,proxy40089
+- SRC-PORT,40090,proxy40090
+- SRC-PORT,40091,proxy40091
+- SRC-PORT,40092,proxy40092
+- SRC-PORT,40093,proxy40093
+- SRC-PORT,40094,proxy40094
+- SRC-PORT,40095,proxy40095
+- SRC-PORT,40096,proxy40096
+- SRC-PORT,40097,proxy40097
+- SRC-PORT,40098,proxy40098
+- SRC-PORT,40099,proxy40099
+- SRC-PORT,40100,proxy40100
+- SRC-PORT,40101,proxy40101
+- SRC-PORT,40102,proxy40102
+- SRC-PORT,40103,proxy40103
+- SRC-PORT,40104,proxy40104
+- SRC-PORT,40105,proxy40105
