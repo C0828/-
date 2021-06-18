@@ -133,6 +133,8 @@ proxy-groups:
       - DIY
   - name: DIY
     type: select
+    proxies:
+      - AUTO    
     use:
       - a
   - name: AUTO
