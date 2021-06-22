@@ -32,7 +32,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://gitlab.com/C0828/NET/-/raw/main/proxies.txt
+    url: https://raw.githubusercontent.com/C0828/NET/main/proxies.txt
     path: clash.yaml
     health-check:
       enable: true
