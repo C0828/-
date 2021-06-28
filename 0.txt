@@ -15,7 +15,7 @@ proxy-groups:
   - name: ALL
     type: select
     proxies:
-      - DIY    
+      - DIY
       - AUTO
   - name: DIY
     type: select
@@ -23,14 +23,14 @@ proxy-groups:
       - a
   - name: AUTO
     type: url-test
-    url: http://www.gstatic.com/generate_204
+    url: http://captive.apple.com
     interval: 3600
     tolerance: 50
     use:
       - a
   - name: CLASH
     type: load-balance
-    url: http://www.gstatic.com/generate_204
+    url: http://captive.apple.com
     interval: 3600
     tolerance: 50
     use:
@@ -39,11 +39,11 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://www.proxypool.ml/clash/proxies?type=vmess&filter=r
-    path: 3.yaml
+    url: https://etproxypool.cf/clash/proxies?filter=rp&type=vmess
+    path: 0.yaml
     health-check:
       enable: true
-      url: http://www.gstatic.com/generate_204
+      url: http://captive.apple.com
       interval: 3600
       tolerance: 50
 

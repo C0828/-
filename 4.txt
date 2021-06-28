@@ -39,8 +39,8 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://www.proxypool.ml/clash/proxies?type=vmess&filter=r
-    path: 3.yaml
+    url: https://etproxypool.cf/clash/proxies?filter=p&type=ss&c=AE,AL,AT,AU,BA,BE,BG,CA,CH,CY,CZ,DE,DK,EE,ES,FI,FR,GB,GE,HK,HR,HU,ID,IE,IN,IT,IL,JP,KR,LT,LU,LV,MD,MK,MY,NG,NL,NO,NZ,PL,PT,RO,RS,RU,SG,SI,SK,TH,TR,TW,VN,UA,US
+    path: 4.yaml
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204

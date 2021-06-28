@@ -15,14 +15,21 @@ proxy-groups:
   - name: ALL
     type: select
     proxies:
-      - AUTO
       - DIY
+      - AUTO
   - name: DIY
     type: select
     use:
       - a
   - name: AUTO
     type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 3600
+    tolerance: 50
+    use:
+      - a
+  - name: CLASH
+    type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 3600
     tolerance: 50
