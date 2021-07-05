@@ -17,8 +17,9 @@ proxy-groups:
     proxies:
       - DIY
       - AUTO
+      - LOVE    
   - name: DIY
-    type: select    
+    type: select
     use:
       - a
   - name: AUTO
@@ -28,13 +29,20 @@ proxy-groups:
     tolerance: 50
     use:
       - a
-  - name: CLASH
+  - name: LOVE
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 3600
     tolerance: 50
     use:
-      - a      
+      - a
+  - name: FUCK
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: 3600
+    tolerance: 50
+    use:
+      - a  
 
 proxy-providers:
   a:
