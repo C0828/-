@@ -3,7 +3,6 @@ mixed-port: 7890
 bind-address: '*'
 allow-lan: false
 mode: rule
-ipv6: false
 log-level: silent
 external-controller: 0.0.0.0:9090
 
