@@ -47,7 +47,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://gitea.com/C0828/NET/raw/branch/-/proxies.txt
+    url: https://raw.githubusercontent.com/C0828/NET/main/proxies.txt
     path: clash.yaml
     health-check:
       enable: true
