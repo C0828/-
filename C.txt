@@ -9,14 +9,14 @@ external-controller: '0.0.0.0:9090'
 dns:
     enable: true
     ipv6: false
-    listen: 0.0.0.0:53
     default-nameserver: [223.5.5.5, 119.29.29.29]
-    enhanced-mode: fake-ip
+    enhanced-mode: redir-host
     fake-ip-range: 198.18.0.1/16
-    use-hosts: false
-    nameserver: ['https://doh.pub/dns-query']
-    fallback: ['https://cloudflare-dns.com/dns-query']
-    fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32] }
+    use-hosts: true
+    nameserver: ['https://doh.pub/dns-query', 'tls://223.5.5.5:853']
+hosts:
+    services.googleapis.cn: 216.58.200.67
+    www.google.cn: 216.58.200.67
 
 proxies: null
 
