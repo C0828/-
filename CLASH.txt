@@ -9,11 +9,16 @@ external-controller: :9090
 dns:
     enable: true
     ipv6: false
-    default-nameserver: [223.5.5.5, 119.29.29.29]
+    default-nameserver:
+      - 119.29.29.29
+      - 223.5.5.5
     enhanced-mode: redir-host
     fake-ip-range: 198.18.0.1/16
     use-hosts: true
-    nameserver: ['https://doh.pub/dns-query', 'tls://223.5.5.5:853']
+    nameserver:
+      - https://doh.pub/dns-query
+      - https://dns.alidns.com/dns-query
+
 hosts:
     services.googleapis.cn: 216.58.200.67
     www.google.cn: 216.58.200.67
