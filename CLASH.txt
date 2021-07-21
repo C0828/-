@@ -1,14 +1,15 @@
 #
 mixed-port: 7890
+redir-port: 7891
 allow-lan: true
 bind-address: '*'
+ipv6: true # false
 mode: rule
 log-level: silent
-external-controller: :9090
+external-controller: 0.0.0.0:9090
 
 dns:
     enable: true
-    ipv6: false
     default-nameserver:
       - 119.29.29.29
       - 223.5.5.5
@@ -18,13 +19,6 @@ dns:
     nameserver:
       - https://doh.pub/dns-query
       - https://dns.alidns.com/dns-query
-
-hosts:
-    services.googleapis.cn: 216.58.200.67
-    www.google.cn: 216.58.200.67
-    '*.clash.dev': '127.0.0.1'
-    'a.com': '127.0.0.2'
-    'alpha.clash.dev': '::1'
 
 proxy-groups:
   - name: ALL
