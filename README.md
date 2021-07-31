@@ -1,8 +1,8 @@
 https://www.jsdelivr.com/
 
-使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@latest发布的版本号/文件路径
 
-https://cdn.jsdelivr.net/gh/AzadNetCH/Clash@main/AzadNet.yml
+https://cdn.jsdelivr.net/gh/AzadNetCH/Clash@latest/AzadNet.yml
 
 clash config that can be used in the following tools:
 
