@@ -1,7 +1,5 @@
 https://www.jsdelivr.com/
 
-https://cdn.jsdelivr.net/gh/AzadNetCH/Clash@latest/AzadNet.yml
-
 clash config that can be used in the following tools:
 
 Clash for Windows : https://github.com/Fndroid/clash_for_windows_pkg/releases
