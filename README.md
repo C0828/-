@@ -1,4 +1,6 @@
-https://www.jsdelivr.com/
+https://www.jsdelivr.com
+
+https://www.7ed.net/gra
 
 clash config that can be used in the following tools:
 
