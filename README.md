@@ -12,7 +12,6 @@ AnXray : https://github.com/XTLS/AnXray/releases
 
 ClashDotNetFramework : https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases
 
-节点测速链接
 
 http://cp.cloudflare.com/generate_204
 
