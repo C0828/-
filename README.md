@@ -2,6 +2,8 @@ https://www.jsdelivr.com
 
 https://www.7ed.net/gra
 
+https://statically.io/
+
 clash config that can be used in the following tools:
 
 Clash for Windows : https://github.com/Fndroid/clash_for_windows_pkg/releases
