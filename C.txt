@@ -151,7 +151,7 @@ proxy-groups:
 proxy-providers:
   a:
     type: http
-    url: https://zyzmzyz.netlify.app/Clash.yml
+    url: https://raw.githubusercontent.com/vpnproxy66/Clash/main/Clash.yml
     path: c.yaml
     health-check:
       enable: true
